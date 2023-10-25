@@ -1,3 +1,3 @@
-module github.com/jfelipforero/iparking-proto/payment
+module github.com/jfelipeforero/iparking-proto/payment
 
 go 1.20
