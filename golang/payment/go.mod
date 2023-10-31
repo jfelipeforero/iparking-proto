@@ -1,4 +1,4 @@
-module github.com/jfelipeforero/iparking-proto/payment
+module github.com/jfelipeforero/iparking-proto/golang/payment
 
 go 1.20
 

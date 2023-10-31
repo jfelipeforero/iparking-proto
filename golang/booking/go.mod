@@ -1,4 +1,4 @@
-module github.com/jfelipeforero/iparking-proto/booking
+module github.com/jfelipeforero/iparking-proto/golang/booking
 
 go 1.20
 
